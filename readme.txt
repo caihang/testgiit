@@ -6,3 +6,4 @@ git test 5
 dev change 1
 master 1 and fearture 1
 dev with -no-ff
+I clone from remote and create dev branch in localhosts I'am caihang
